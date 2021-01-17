@@ -1,0 +1,4 @@
+Apples: 30
+Grapes: 15
+Lemons: 25
+Oranges: 56
